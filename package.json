@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SvetlanaPolunina/toothless-command/issues"
   },
-  "homepage": "https://github.com/SvetlanaPolunina/toothless-command#readme"
+  "homepage": "https://github.com/SvetlanaPolunina/toothless-command#readme",
+  "devDependencies": {
+    "prettier": "^3.3.2"
+  }
 }
