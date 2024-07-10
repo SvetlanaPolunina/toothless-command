@@ -1,3 +1,3 @@
 export default () => {
-  console.log('Toothless is grate!');
+  console.log('Toothless is great!');
 }
